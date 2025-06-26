@@ -30,17 +30,6 @@ MainWindow::MainWindow(QWidget *parent)
     indexOfCharacterToGuess = rand() % characters.size();
 
 
-
-    QWidget *contentWidget = new QWidget;
-    QVBoxLayout *layout = new QVBoxLayout(contentWidget);
-            for (int i = 0; i < 50; ++i) {
-             layout->addWidget(new QLabel("Label " + QString::number(i)));
-    }
-        QScrollArea *scrollArea = new QScrollArea;
-     scrollArea->setWidget(contentWidget);
-     scrollArea->setWidgetResizable(true);
-
-
     ui->setupUi(this);
 
     for (auto character : characters) {
