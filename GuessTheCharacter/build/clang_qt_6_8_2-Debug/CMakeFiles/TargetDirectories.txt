@@ -1,0 +1,9 @@
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/GuessTheCharacter.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/edit_cache.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/list_install_components.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/install.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/install/local.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/install/strip.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/GuessTheCharacter_autogen_timestamp_deps.dir
+/home/admin/GuessTheCharacter/build/clang_qt_6_8_2-Debug/CMakeFiles/GuessTheCharacter_autogen.dir
